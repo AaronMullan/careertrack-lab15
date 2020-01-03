@@ -1,1 +1,1 @@
-# careertrack-lab15
+# Backend for a record collecting app.  User auth with Jason Web Token.  Database MongoDB.  
